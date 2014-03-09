@@ -1,1 +1,1 @@
-
+Be precise in your prose, consistent in your style, and true to your own voice. Be clear and authoritative, but mindful of your inadequacies. Let your reader know when you are beyond your expertise. We will trust you more for your honesty and knowledge of your limits.
