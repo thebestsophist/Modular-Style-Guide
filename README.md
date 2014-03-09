@@ -15,5 +15,16 @@ My goal here is neither to create a dictionary of rules (such as the New York Ti
 2. Be as clear as necessary, no less.
 3. Editorial mistakes happen, correct them when necessary and move on.
 
+## Table of Contents
+1. Introduction
+2. Style
+3. Annotations
+4. Notes on Publishing
+5. Duties
+6. Code Semantics
+7. Typography, Layout, and Design
+8. Discussion
+9. Closing Notes
+
 ## Anatomy of the Guide
 All text is written in markdown, which is automatically formatted into clean html by most web-based git repositories (such as GitHub, BitBucket, and Gitorious). Each section (eg “Grammar”, “Annotations”, and “Typography”) is in a separate folder. Within each folder is `core.md`  which includes content that is generalized across all editorial contexts. There are also context-specific files with rules that are intended for a particular editorial style.
