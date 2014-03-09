@@ -4,6 +4,7 @@ The A Yellow Raven Modular Style Guide
 An opinionated style guide with modular style rules for the common editorial standards.
 
 Version: 2014.03.02
+
 License: CC0 1.0 Public Domain
 
 ## What this style guide is for and how to use it
