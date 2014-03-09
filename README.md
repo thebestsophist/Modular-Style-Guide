@@ -3,9 +3,8 @@ The A Yellow Raven Modular Style Guide
 
 An opinionated style guide with modular style rules for the common editorial standards.
 
-Version: 2014.03.02
-
-License: CC0 1.0 Public Domain
+- Version: 2014.03.02
+- License: CC0 1.0 Public Domain
 
 ## What this style guide is for and how to use it
 The modular style guide is primarily aimed at written content digital contexts (such as websites and apps), but its rules can be applied to any editorial process. It is a work in progress, but eventually will include default editorial styles for personal writing (such as blogs), business (such as corporate websites), journalism, and scholarship (such as digital academic journals).
